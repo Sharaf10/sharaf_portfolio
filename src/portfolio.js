@@ -15,7 +15,7 @@ const greeting = {
     nickname: "GhOst",
     full_name: "Mohamed Sharaf Kiyasdeen",
     subTitle: "Front-End Developer, Machine Learning Enthusiast & Graphic Designer🔥. Always learning.",
-    resumeLink: "https://drive.google.com/file/d/1f0jJo6GVODJWp6QTKU41yeq3iQOUPLGV/view?usp=sharing",
+    resumeLink: "https://drive.google.com/file/d/15DbMc3wsRHSUq358vD3lXY08j7pAoLKU/view?usp=share_link",
     mail: "mailto:sharafkiyasdeen123@gmail.com@gmail.com"
 };
 
