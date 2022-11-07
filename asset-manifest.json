@@ -1,12 +1,12 @@
 {
   "main.css": "/sharaf_portfolio/static/css/main.2e516cef.chunk.css",
-  "main.js": "/sharaf_portfolio/static/js/main.293c496d.chunk.js",
-  "main.js.map": "/sharaf_portfolio/static/js/main.293c496d.chunk.js.map",
+  "main.js": "/sharaf_portfolio/static/js/main.1e9585e5.chunk.js",
+  "main.js.map": "/sharaf_portfolio/static/js/main.1e9585e5.chunk.js.map",
   "static/js/1.3c585dc0.chunk.js": "/sharaf_portfolio/static/js/1.3c585dc0.chunk.js",
   "static/js/1.3c585dc0.chunk.js.map": "/sharaf_portfolio/static/js/1.3c585dc0.chunk.js.map",
   "runtime~main.js": "/sharaf_portfolio/static/js/runtime~main.273b75cc.js",
   "runtime~main.js.map": "/sharaf_portfolio/static/js/runtime~main.273b75cc.js.map",
-  "static/media/index.css": "/sharaf_portfolio/static/media/GoogleSans-Italic.0ecddcde.ttf",
+  "static/media/index.css": "/sharaf_portfolio/static/media/GoogleSans-MediumItalic.8fd37379.ttf",
   "static/media/8media.png": "/sharaf_portfolio/static/media/8media.2c28e982.png",
   "static/media/University_of_Moratuwa_logo.png": "/sharaf_portfolio/static/media/University_of_Moratuwa_logo.184dd134.png",
   "static/media/abdul.jpg": "/sharaf_portfolio/static/media/abdul.1c5c79ca.jpg",
@@ -41,6 +41,6 @@
   "static/media/all.css": "/sharaf_portfolio/static/media/fa-solid-900.c2801fb4.svg",
   "static/css/main.2e516cef.chunk.css.map": "/sharaf_portfolio/static/css/main.2e516cef.chunk.css.map",
   "index.html": "/sharaf_portfolio/index.html",
-  "precache-manifest.f4717f9eecb4f799045c9670f8355a72.js": "/sharaf_portfolio/precache-manifest.f4717f9eecb4f799045c9670f8355a72.js",
+  "precache-manifest.b1878231acee3a078346586d018a000d.js": "/sharaf_portfolio/precache-manifest.b1878231acee3a078346586d018a000d.js",
   "service-worker.js": "/sharaf_portfolio/service-worker.js"
 }
